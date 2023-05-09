@@ -5,7 +5,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [Solar Array ForwardEDU Tutorial v1](https://makecode.microbit.org/#tutorial:github:mbakhtar/solar-array-fwdedu-tutorial-v1/solararry-fwdedu-tutorial-v1)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/solar-array-fwdedu-tutorial-v1** and import
