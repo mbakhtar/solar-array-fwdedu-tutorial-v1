@@ -1,7 +1,7 @@
 # Solar Array CAK V2.1 fwdEDU
 
 ```package
-jacdac=github:microsoft/pxt-jacdac
+fwd-edu-breakout=github:climate-action-kits/pxt-fwd-edu/fwd-breakout
 ```
 ## @showhint
 Create a ``||Variables:Variable position||`` and nest ``||Variables:set position to -90||`` 
