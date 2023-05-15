@@ -2,6 +2,7 @@
 
 ```package
 fwd-edu-breakout=github:climate-action-kits/pxt-fwd-edu/fwd-breakout
+solar=github:climate-action-kits/pxt-fwd-edu
 ```
 ## @showhint
 Create a ``||Variables:Variable position||`` and nest ``||Variables:set position to -90||`` 
